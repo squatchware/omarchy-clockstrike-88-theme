@@ -3,7 +3,7 @@
 An original Omarchy theme inspired by the optimistic energy, temporal sparks, and small-town midnight adventure of 1980s time-travel science fiction.
 
 Part of **[Movie Night](https://squatchware.dev/movies/)** from Squatchware: six Omarchy themes for the
-films we rewound until the tape wore thin, each in dark and light.
+films we rewound until the tape wore thin.
 
 ![Desktop](preview.png)
 ![Lock screen](preview-unlock.png)
@@ -14,7 +14,6 @@ films we rewound until the tape wore thin, each in dark and light.
 omarchy theme install https://github.com/squatchware/omarchy-clockstrike-88-theme
 ```
 
-Its light twin is [Clockstrike 88 Light](https://github.com/squatchware/omarchy-clockstrike-88-light-theme).
 
 ## What's in it
 
@@ -27,11 +26,11 @@ Its light twin is [Clockstrike 88 Light](https://github.com/squatchware/omarchy-
 
 ## The rest of Movie Night
 
-- [Crossed Streams](https://github.com/squatchware/omarchy-crossed-streams-theme) · [light](https://github.com/squatchware/omarchy-crossed-streams-light-theme): Ectoplasm green and proton orange: a 1980s supernatural comedy.
-- [Digital Frontier](https://github.com/squatchware/omarchy-digital-frontier-theme) · [light](https://github.com/squatchware/omarchy-digital-frontier-light-theme): Void black and grid cyan: the glowing computer worlds of early-80s sci-fi.
-- [Nostromo](https://github.com/squatchware/omarchy-nostromo-theme) · [light](https://github.com/squatchware/omarchy-nostromo-light-theme): Graphite hull, phosphor consoles and bone panels: industrial deep space.
-- [Power Maze](https://github.com/squatchware/omarchy-power-maze-theme) · [light](https://github.com/squatchware/omarchy-power-maze-light-theme): Maze blue, power gold and chase red: a maze-chase arcade cabinet.
-- [Tears in Rain](https://github.com/squatchware/omarchy-tears-in-rain-theme) · [light](https://github.com/squatchware/omarchy-tears-in-rain-light-theme): Rain black and neon: the wet streets of 1980s cult sci-fi noir.
+- [Crossed Streams](https://github.com/squatchware/omarchy-crossed-streams-theme): Ectoplasm green and proton orange: a 1980s supernatural comedy.
+- [Digital Frontier](https://github.com/squatchware/omarchy-digital-frontier-theme): Void black and grid cyan: the glowing computer worlds of early-80s sci-fi.
+- [Nostromo](https://github.com/squatchware/omarchy-nostromo-theme): Graphite hull, phosphor consoles and bone panels: industrial deep space.
+- [Power Maze](https://github.com/squatchware/omarchy-power-maze-theme): Maze blue, power gold and chase red: a maze-chase arcade cabinet.
+- [Tears in Rain](https://github.com/squatchware/omarchy-tears-in-rain-theme): Rain black and neon: the wet streets of 1980s cult sci-fi noir.
 
 ## Credits
 
