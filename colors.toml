@@ -1,0 +1,35 @@
+mode = "dark"
+
+# Midnight asphalt, electric time trails, hot plasma and dashboard glow.
+accent = "#35D7FF"
+selection = "#274B65"
+muted = "#697B9D"
+
+background = "#090B1A"
+dark_background = "#060711"
+darker_background = "#03040A"
+lighter_background = "#182044"
+
+foreground = "#EAF7FF"
+dark_foreground = "#697B9D"
+light_foreground = "#B9D3E4"
+bright_foreground = "#FFFFFF"
+
+red = "#FF4D5A"
+yellow = "#FFD166"
+orange = "#FF7A2F"
+green = "#64D98B"
+cyan = "#35D7FF"
+blue = "#6795FF"
+magenta = "#C76DFF"
+brown = "#A86F4B"
+
+bright_red = "#FF7580"
+bright_yellow = "#FFE38F"
+bright_green = "#8AF0A9"
+bright_cyan = "#75E7FF"
+bright_blue = "#8EB1FF"
+bright_magenta = "#DD9AFF"
+
+selection_background = "#274B65"
+selection_foreground = "#FFFFFF"
